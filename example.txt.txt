@@ -1,1 +1,2 @@
+welcome to turingmunds.ai
 welcome to devops class
